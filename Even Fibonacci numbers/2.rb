@@ -40,3 +40,4 @@ end
 
 answer = Fibonacci.new
 answer.getFibonacci()
+# => 4613732
